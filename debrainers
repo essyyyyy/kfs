@@ -31,7 +31,7 @@ local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/Siri
 
 -- create a Rayfield Window
 local Window = Rayfield:CreateWindow({
-   Name = "KFS - debrainers", 
+   Name = "KFS - *debrainers* on discord", 
    Icon = 0, -- Optional icon or set 0 to remove
    LoadingTitle = "crazy ware",
    LoadingSubtitle = "by debrainers the best?!",
